@@ -116,7 +116,7 @@
     "uuid": "^3.3.0",
     "validator": "^10.1.0",
     "webpack": "^4.16.4",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-cli": "^3.0.8",
     "webpack-manifest-plugin": "^2.0.3",
     "xmlbuilder": "^10.0.0"
