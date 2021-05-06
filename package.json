@@ -104,7 +104,7 @@
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
     "rss": "^1.2.2",
-    "sanitize-html": "^1.14.1",
+    "sanitize-html": "^2.3.2",
     "sass-loader": "^7.0.3",
     "sequelize": "^4.11.1",
     "strip-indent": "^2.0.0",
