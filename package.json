@@ -84,7 +84,7 @@
     "mini-css-extract-plugin": "^0.4.0",
     "newrelic": "^4.3.0",
     "node-pandoc": "^0.3.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.14.12",
     "normalize.css": "^8.0.0",
     "passport": "^0.4.0",
